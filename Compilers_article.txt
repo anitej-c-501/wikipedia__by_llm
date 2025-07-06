@@ -1,0 +1,171 @@
+== Compilers ==
+
+Overview section introduces the topic.
+Introduction To Compilers - GeeksforGeeks: A Compiler is a software that
+typically takes a high level language (Like C++ and Java) code as input and
+converts the input to a lower level language at once. It lists all the errors if
+the input code does not follow the rules of its language. [1]
+
+What is a compiler? | Definition from TechTarget: A compiler is a special
+program that translates a programming language's source code into machine code,
+bytecode or another programming language. The source code is typically written
+in a high-level, human-readable language, such as Java or C++. . [3]
+
+What is Compiler? - W3Schools: A compiler is system software (a set of a
+computer program) that converts source code written in a programming language
+(source language, usually HLL) into another computer language (target language).
+It processes every statement written in a particular programming language and
+turns them to machine language. [5]
+
+What is a Compiler? - Webopedia: A compiler is a program that translates source
+code into object code to be understood by a specific central processing unit
+(CPU). The act of translating source code into object code is known as
+compilation. . What is compilation? [7]
+
+== How It Works ==
+
+This section covers how it works.
+Compiler - Wikipedia: Compiler analysis is the prerequisite for any compiler
+optimization, and they tightly work together. For example, dependence analysis
+is crucial for loop transformation. The scope of compiler analysis and
+optimizations vary greatly; their scope may range from operating within a basic
+block, to whole procedures, or even the whole program. [2]
+
+What Is a Compiler? (Definition, How It Works) - Built In: A compiler is a
+program that translates high-level programming code into machine-readable code
+that a computer can execute. It can help catch errors, optimize performance and
+generate a binary file that runs on a specific platform. What is the difference
+between a compiler and an interpreter? [4]
+
+What is a Compiler? Definition, Phases, and Various Types - Techgeekbuzz: A
+compiler converts a source code into an executable file containing the machine
+code for computers to execute. Here, in this article, we shall discuss more
+about the compiler and how it works. So, let us get started! What is a Compiler?
+[6]
+
+What Are the Advantages of a Compiler? - Reference. com: A compiler works
+differently from an interpreter, though both are meant to achieve the same goal
+of translating the high-level languages to a form that computers can understand.
+. [23]
+
+What Is a Compiler? (Definition, How It Works) - Built In: Compilers translate
+code from a high-level programming language into machine code before the program
+runs. Interpreters, on the other hand, execute high-level code line-by-line at
+runtime, typically without producing a separate machine code file. [24]
+
+
+== History ==
+
+This section covers history.
+What is a Compiler? Compilers in C Explained for Beginners: In the case of C
+compilers, ISO (International Organization for Standardization) manages the
+standards. As long as the ISO manages future C compiler standards, programmers
+and companies can develop reliable software. Wrapping Up. Thanks for reading!
+Now you understand: What a compiler is. The basic history of C compilers. [8]
+
+History of compiler construction - Wikipedia: In computing, a compiler is a
+computer program that transforms source code written in a programming language
+or computer language (the source language), into another computer language (the
+target language, often having a binary form known as object code or machine
+code). The most common reason for transforming source code is to create an
+executable program. [11]
+
+History of Compilers - University of Wisconsin-Madison: History of Compilers The
+term compiler was coined in the early 1950s by Grace Murray Hopper. Translation
+was viewed as the "compilation" of a sequence of machine-
+languagesubprogramsselected from a library. One of the ﬁrst real compilers was
+the FORTRAN compiler of the late 1950s. [12]
+
+History of Compiler Design - Medium: In this blog I'll be trying to shadow the
+history of compilers in detail along with the basic introduction to compilers
+and it's optimization. Starting with what a compiler is. [13]
+
+PDF A history of compilers - ITU: • An abstract machine, a language, a compiler
+- Three-address code with indirect addressing - Machine is realizable in
+hardware but not built - Only assignments ; goto C is: - Compiler written in the
+compiled language - Single-pass compilation of full-paren. [14]
+
+
+== Recent Developments ==
+
+This section covers recent developments.
+Future Trends in Compiler Tools - csbranch. . is influencing the design of
+future compilers. These new models offer novel ways of thinking about software
+architecture, and compilers must evolve to support them. [41]
+
+PDF Advancements in Compiler Design and Optimization Techniques: the most recent
+developments in compiler design and optimization techniques on program execution
+speed, memory utilization, and overall software quality is highlighted in this
+study. The design of the compiler is advanced by the efficient code that is now
+structured in research with high-speed performance without manual intervention.
+[42]
+
+: Heartbeat compiler. Joint work by Campanoni's Rethinks Compiler Abstractions
+for New Applications (ARCANA) lab, Peter Dinda's Prescience Lab, and Umut Acar's
+team at Carnegie Mellon University introduced the first compiler capable of
+fully automating heartbeat scheduling, a granularity control mechanism used to
+adjust parallelism at run-time. [43]
+
+Next-Generation Compiler Technologies - Intel: We enabled many new compiler and
+runtime optimizations to achieve leadership performance for HPC and AI
+applications. Prefetching, async offloading, atomic-free reduction support,
+optimal share-local memory, explicit SIMD, ND-range parallel execution, and
+native fast math are just a few examples. [44]
+
+- Wjert: The article "Recent Innovations in Language and Compiler Theory: An In-
+Depth Analysis" provides an in-depth exploration of recent developments that
+have shaped the landscape of language and compiler theory. [46]
+
+
+== References ==
+
+1. ^ "Introduction To Compilers - GeeksforGeeks": https://www.geeksforgeeks.org/introduction-to-compilers/
+2. ^ "Compiler - Wikipedia": https://en.wikipedia.org/wiki/Compiler
+3. ^ "What is a compiler? | Definition from TechTarget": https://www.techtarget.com/whatis/definition/compiler
+4. ^ "What Is a Compiler? (Definition, How It Works) - Built In": https://builtin.com/software-engineering-perspectives/compiler
+5. ^ "What is Compiler? - W3Schools": https://www.w3schools.in/what-is-compiler
+6. ^ "What is a Compiler? Definition, Phases, and Various Types - Techgeekbuzz": https://www.techgeekbuzz.com/blog/what-is-compiler/
+7. ^ "What is a Compiler? - Webopedia": https://www.webopedia.com/definitions/compilier/
+8. ^ "What is a Compiler? Compilers in C Explained for Beginners": https://www.freecodecamp.org/news/what-is-a-compiler-in-c/
+9. ^ "What is a compiler?": https://www.infoworld.com/article/2337838/what-is-a-compiler-how-source-code-becomes-machine-code.html
+10. ^ "What is a Compiler in Computer Programming? - LaptopJudge": https://laptopjudge.com/what-is-a-compiler-in-computer-programming
+11. ^ "History of compiler construction - Wikipedia": https://en.wikipedia.org/wiki/History_of_compiler_construction
+12. ^ "History of Compilers - University of Wisconsin-Madison": https://pages.cs.wisc.edu/~fischer/cs536.s08/lectures/Lecture02.4up
+13. ^ "History of Compiler Design - Medium": https://medium.com/@PowerPP/history-of-compiler-design-c48bfa78122e
+14. ^ "PDF A history of compilers - ITU": https://www.itu.dk/~sestoft/papers/compilerhistory-diku-20140221.pdf
+15. ^ "PDF CHAPTER A Brief History of Compiler Technology - Springer": https://link.springer.com/content/pdf/10.1007/978-1-4302-0698-9_1.pdf
+16. ^ "PDF Compilers History Wikipedia - Saylor Academy": https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS304-1.2.2-COMPILERSHISTORYWIKI.pdf
+17. ^ "A History of Compilers - DocsLib": https://docslib.org/doc/6574053/a-history-of-compilers
+18. ^ "PDF A history of compilers - datamuseum": https://datamuseum.dk/wp-content/uploads/2013/12/compilerhistory-ddhf-20140123.pdf
+19. ^ "": https://coursprof.com/articles/en/Compiler+Design+and+Construction/1938
+20. ^ "Compiler - Wikipedia": https://en.wikipedia.org/wiki/Compiler
+21. ^ "Advantages and Disadvantages of Compiler - GeeksforGeeks": https://www.geeksforgeeks.org/advantages-and-disadvantages-of-compiler/
+22. ^ "What is a compiler and its need? - Codeforwin": https://codeforwin.org/fundamentals/compiler-and-its-need
+23. ^ "What Are the Advantages of a Compiler? - Reference. com": https://www.reference.com/world-view/advantages-compiler-12741e1d44b980ec
+24. ^ "What Is a Compiler? (Definition, How It Works) - Built In": https://builtin.com/software-engineering-perspectives/compiler
+25. ^ "Introduction To Compilers - GeeksforGeeks": https://www.geeksforgeeks.org/introduction-to-compilers/
+26. ^ "What is Compiler? Features, Uses, Advantages - Box Of Notes": https://boxofnotes.com/what-is-compiler/
+27. ^ "What Are the Advantages and Disadvantages of a Compiler? - Tech with Maddy": https://techwithmaddy.com/what-are-the-advantages-and-disadvantages-of-a-compiler
+28. ^ "": https://noobtomaster.com/compiler-design/overview-of-compilers-and-their-role-in-the-software-development-process/
+29. ^ "Compiler": https://www.thetechplatform.com/post/compiler-definition-architecture-advantages-and-disadvantages
+30. ^ "Disadvantages & Advantages of Compilers - Techwalla": https://www.techwalla.com/articles/disadvantages-advantages-of-compilers
+31. ^ "27 Facts About Compiler Design": https://facts.net/tech-and-sciences/computing/27-facts-about-compiler-design/
+32. ^ "Introduction To Compilers - GeeksforGeeks": https://www.geeksforgeeks.org/introduction-to-compilers/
+33. ^ "Compiler | Definition & Facts | Britannica": https://www.britannica.com/technology/compiler
+34. ^ "What Is a Compiler? (Definition, How It Works) - Built In": https://builtin.com/software-engineering-perspectives/compiler
+35. ^ "All You've Ever Wanted To Know About Compilers | Hackaday": https://hackaday.com/2020/01/05/all-youve-ever-wanted-to-know-about-compilers/
+36. ^ "What is Compiler? Features, Uses, Advantages - Box Of Notes": https://boxofnotes.com/what-is-compiler/
+37. ^ "5 Must-Know Facts About Compiler Information": https://www.knbbs.com/5-must-know-facts-about-compiler-information/
+38. ^ "How Compilers Work | Baeldung on Computer Science": https://www.baeldung.com/cs/how-compilers-work
+39. ^ "": https://www.compilersutra.com/docs/compilers/introductiontocompilers/
+40. ^ "What is a compiler, and how does it work? - Medium": https://learningdaily.dev/what-is-a-compiler-and-how-does-it-work-cb4e9085c839
+41. ^ "Future Trends in Compiler Tools - csbranch. . is influencing the design of future compilers. These new models offer novel ways of thinking about software architecture, and compilers must evolve to support them.": https://csbranch.com/index.php/2024/10/06/future-trends-in-compiler-tools/
+42. ^ "PDF Advancements in Compiler Design and Optimization Techniques": https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/36/e3sconf_iconnect2023_04047.pdf
+43. ^ "": https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2024/advancing-compiler-technology.html
+44. ^ "Next-Generation Compiler Technologies - Intel": https://www.intel.com/content/www/us/en/developer/articles/technical/next-gen-compiler-technologies-q-a-with-architects.html
+45. ^ "": https://www.sciopen.com/article/10.7527/S1000-6893.2024.30552
+46. ^ "- Wjert": https://www.wjert.org/admin/assets/article_issue/76032024/1712055791.pdf
+47. ^ "Advancements in Compiler Design and Optimization Techniques - ResearchGate": https://www.researchgate.net/publication/372339181_Advancements_in_Compiler_Design_and_Optimization_Techniques
+48. ^ "The Next Generation of Compilers - IEEE Xplore": https://ieeexplore.ieee.org/document/4907645
+49. ^ "and custom designs. The overarching goal is to encourage the development of reusable hardware libraries and facilitate more efficient and customizable hardware design methodologies.": https://ijrpr.com/uploads/V5ISSUE1/IJRPR22093.pdf
+50. ^ "Current Status ": https://isocpp.org/std/status

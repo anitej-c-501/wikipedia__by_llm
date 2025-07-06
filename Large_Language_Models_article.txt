@@ -1,0 +1,191 @@
+== Large Language Models ==
+
+Overview section introduces the topic.
+Large language model - Wikipedia: A large language model (LLM) is a type of
+machine learning model designed for natural language processing tasks such as
+language generation. LLMs are language models with many parameters, and are
+trained with self-supervised learning on a vast amount of text. . The largest
+and most capable LLMs are generative pretrained transformers (GPTs). [2]
+
+What are large language models (LLMs)? | Microsoft Azure: Large language models
+(LLMs) are advanced AI systems that understand and generate natural language, or
+human-like text, using the data they've been trained on through machine learning
+techniques. LLMs can automatically generate text-based content, which can be
+applied to a myriad of uses cases across industries, resulting in greater
+efficiencies and cost savings for organizations worldwide. [4]
+
+Introduction to large language models - Training | Microsoft Learn: Explain what
+a large language model (LLM) is. Describe what LLMs can and can't do. Understand
+core concepts like prompts, tokens, and completions. Distinguish between
+different models to understand which one to choose for what purpose. [8]
+
+Large language model - Wikipedia: A large language model (LLM) is a type of
+machine learning model designed for natural language processing tasks such as
+language generation. LLMs are language models with many parameters, and are
+trained with self-supervised learning on a vast amount of text. [11]
+
+: Language models serve as a cornerstone in natural language processing (NLP),
+utilizing mathematical methods to generalize language laws and knowledge for
+prediction and generation. Over extensive research spanning decades, language
+modeling has progressed from initial statistical language models (SLMs) to the
+contemporary landscape of large language models (LLMs). [13]
+
+
+== How It Works ==
+
+This section covers how it works.
+What is a Large Language Model (LLM) - GeeksforGeeks: LLMs are AI algorithms
+that use neural networks to process and understand human languages. Learn about
+their evolution, components, examples, and challenges in NLP tasks like text
+generation, machine translation, and code generation. [1]
+
+What are large language models (LLMs)? - IBM: How large language models work
+LLMs operate by leveraging deep learning techniques and vast amounts of textual
+data. These models are typically based on a transformer architecture, like the
+generative pre-trained transformer, which excels at handling sequential data
+like text input. [3]
+
+Introduction to Large Language Models - Google Developers: Learn what language
+models and large language models (LLMs) are, how they work, and what they can
+do. Explore key concepts, use cases, and challenges of LLMs, such as
+Transformers and self-attention. [5]
+
+What is LLM? - Large Language Models Explained - AWS: Large language models,
+also known as LLMs, are very large deep learning models that are pre-trained on
+vast amounts of data. The underlying transformer is a set of neural networks
+that consist of an encoder and a decoder with self-attention capabilities. [6]
+
+What are Large Language Models? | A Comprehensive LLMs Guide: Learn what large
+language models (LLMs) are, how they work, and what they can do. LLMs are deep
+learning algorithms that can perform various natural language processing tasks
+using transformer models and massive datasets. [7]
+
+== Recent Developments ==
+
+This section covers recent developments.
+What are large language models (LLMs)? - TechTarget: A large language model is a
+type of artificial intelligence algorithm that uses deep learning techniques and
+massively large data sets to understand, summarize, generate and predict new
+content. The term generative AI also is closely connected with LLMs, which are,
+in fact, a type of generative AI that has been specifically architected to help
+generate text-based content. [9]
+
+- NVIDIA Blog: Top Applications for Large Language Models. Large language models
+are unlocking new possibilities in areas such as search engines, natural
+language processing, healthcare, robotics and code generation. The popular
+ChatGPT AI chatbot is one application of a large language model. It can be used
+for a myriad of natural language processing tasks. [21]
+
+ [26]
+
+: Large Language Models (LLMs) recently demonstrated extraordinary capability in
+various natural language processing (NLP) tasks including language translation,
+text generation, question answering, etc. [28]
+
+Large Language Models: Complete Guide in 2025 - AIMultiple: Large language
+models (LLMs) have generated much hype in recent months (see Figure 1). The
+demand has led to the ongoing development of websites and solutions that
+leverage language models. ChatGPT set the record for the fastest-growing user
+base in January 2023, proving that language models are here to stay. [30]
+
+
+== History ==
+
+This section covers history.
+A Brief History of Large Language Models - DATAVERSITY: The history of large
+language models starts with the concept of semantics, developed by the French
+philologist, Michel Bréal, in 1883. [12]
+
+Large language model | Definition, History, & Facts | Britannica: A large
+language model (LLM) is a deep-learning algorithm that uses massive amounts of
+parameters and training data to understand and predict text. [15]
+
+Large Language Models 101: History, Evolution and Future: Learn about the
+origins, types, and applications of large language models (LLMs), the neural
+networks that can perform various natural language processing tasks. Explore the
+history of LLMs from Eliza to GPT-3, and the future of conversational AI,
+textual content creation, and sentiment analysis. [16]
+
+The Evolution of Language Models: A Journey Through Time: Embarking on this
+adventure to unearth the inner workings of Large Language Models, it's crucial
+to acknowledge their deep roots in the extensive history of AI progress, tracing
+back to the mid … [17]
+
+1. History of Large Language Models | From 1940 to 2023: In this post, we are
+going to see the historical overview of the development of Language Models, from
+1940 to 2023. [18]
+
+
+== Significance ==
+
+This section covers significance.
+. Self-Attention Mechanism: Self-attention enables the model to weigh the
+importance of different tokens in the input sequence by computing attention
+scores. [22]
+
+The Importance of Understanding Language in Large Language Models: The potential
+for LLMs to transform how we perceive, write, communicate, and utilize AI is
+profound, emphasizing the importance of understanding the impact of LLMs on
+human communication. The use of large language models (LLMs) as a communication
+tool can have profound social consequences, reshaping human interactions and
+trust dynamics. [27]
+
+A Comprehensive Overview of Large Language Models: The importance of large
+language models lies in their ability to revolutionize how we interact with and
+utilize language. They have the potential to streamline operations, improve
+customer experiences, and drive innovation. Classification of Large Language
+Model Use Cases. [29]
+
+
+== References ==
+
+1. ^ "What is a Large Language Model (LLM) - GeeksforGeeks": https://www.geeksforgeeks.org/large-language-model-llm/
+2. ^ "Large language model - Wikipedia": https://en.wikipedia.org/wiki/Large_language_model
+3. ^ "What are large language models (LLMs)? - IBM": https://www.ibm.com/think/topics/large-language-models
+4. ^ "What are large language models (LLMs)? | Microsoft Azure": https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-large-language-models-llms
+5. ^ "Introduction to Large Language Models - Google Developers": https://developers.google.com/machine-learning/resources/intro-llms
+6. ^ "What is LLM? - Large Language Models Explained - AWS": https://aws.amazon.com/what-is/large-language-model/
+7. ^ "What are Large Language Models? | A Comprehensive LLMs Guide": https://www.elastic.co/what-is/large-language-models
+8. ^ "Introduction to large language models - Training | Microsoft Learn": https://learn.microsoft.com/en-us/training/modules/introduction-large-language-models/
+9. ^ "What are large language models (LLMs)? - TechTarget": https://www.techtarget.com/whatis/definition/large-language-model-LLM
+10. ^ "What is a large language model (LLM)? - Cloudflare": https://www.cloudflare.com/learning/ai/what-is-large-language-model/
+11. ^ "Large language model - Wikipedia": https://en.wikipedia.org/wiki/Large_language_model
+12. ^ "A Brief History of Large Language Models - DATAVERSITY": https://www.dataversity.net/a-brief-history-of-large-language-models/
+13. ^ "": https://arxiv.org/abs/2402.06853
+14. ^ "": https://link.springer.com/article/10.1007/s43681-024-00583-7
+15. ^ "Large language model | Definition, History, & Facts | Britannica": https://www.britannica.com/topic/large-language-model
+16. ^ "Large Language Models 101": https://www.scribbledata.io/blog/large-language-models-history-evolutions-and-future/
+17. ^ "The Evolution of Language Models": https://medium.com/@adria.cabello/the-evolution-of-language-models-a-journey-through-time-3179f72ae7eb
+18. ^ "1. History of Large Language Models | From 1940 to 2023": https://ai-researchstudies.com/history-of-large-language-models-from-1940-to-2023/
+19. ^ "The history, timeline, and future of LLMs": https://toloka.ai/blog/history-of-llms/
+20. ^ "A Brief History of Large Language Models (LLM) - Parsio Blog": https://parsio.io/blog/a-brief-history-of-llm/
+21. ^ "- NVIDIA Blog": https://blogs.nvidia.com/blog/what-are-large-language-models-used-for/
+22. ^ ". Self-Attention Mechanism": https://www.geeksforgeeks.org/large-language-model-llm/
+23. ^ "What are large language models (LLMs)? .": https://www.ibm.com/think/topics/large-language-models
+24. ^ "5 key features and benefits of large language models": https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/10/09/5-key-features-and-benefits-of-large-language-models/
+25. ^ "": https://link.springer.com/article/10.1007/s10115-024-02120-8
+26. ^ "[2307. 06435] A Comprehensive Overview of Large Language Models - arXiv. org": https://arxiv.org/abs/2307.06435
+27. ^ "The Importance of Understanding Language in Large Language Models": https://www.tandfonline.com/doi/full/10.1080/15265161.2023.2256614
+28. ^ "": https://ieeexplore.ieee.org/document/10433480
+29. ^ "A Comprehensive Overview of Large Language Models": https://www.wisecube.ai/blog/a-comprehensive-overview-of-large-language-models/
+30. ^ "Large Language Models": https://research.aimultiple.com/large-language-models/
+31. ^ "Large language model - Wikipedia": https://en.wikipedia.org/wiki/Large_language_model
+32. ^ "What is a Large Language Model (LLM) - GeeksforGeeks": https://www.geeksforgeeks.org/large-language-model-llm/
+33. ^ "What are large language models (LLMs)? - IBM": https://www.ibm.com/think/topics/large-language-models
+34. ^ "Introduction to Large Language Models - Google Developers": https://developers.google.com/machine-learning/resources/intro-llms
+35. ^ "[2304. 00612] Eight Things to Know about Large Language Models - arXiv. org": https://arxiv.org/abs/2304.00612
+36. ^ "The key here is to remember that everything to the left of a to-be-generated word is context that the model can rely on.": https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f
+37. ^ "A jargon-free explanation of how AI large language models work": https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/
+38. ^ "AI Demystified": https://uit.stanford.edu/service/techtraining/ai-demystified/llm
+39. ^ "5 key features and benefits of large language models": https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/10/09/5-key-features-and-benefits-of-large-language-models/
+40. ^ ". In a hospital, doctors could use it to quickly skim patient charts and highlight key medical info.": https://www.interscanllc.com/blog/what-are-large-language-models-a-comprehensive-guide
+41. ^ "MM-LLMs": https://arxiv.org/abs/2401.13601
+42. ^ "The Future of Large Language Models in 2025 - AIMultiple": https://research.aimultiple.com/future-of-large-language-models/
+43. ^ "": https://ieeexplore.ieee.org/document/10638808
+44. ^ "15 Best Large Language Models in September 2024": https://usefulai.com/language-models
+45. ^ "Recent Trends in Large Language Models - giz. ai": https://www.giz.ai/recent-trends-in-large-language-models/
+46. ^ "The Next Big Trends in Large Language Model Research": https://www.llmreporter.com/posts/the-next-big-trends-in-large-language-model-research/
+47. ^ ". Key Milestones in Large Language Model Development. Large language models haven't always been as useful as they are today.": https://hatchworks.com/blog/gen-ai/large-language-models-guide/
+48. ^ "What's the next word in large language models?": https://www.nature.com/articles/s42256-023-00655-z
+49. ^ "Future of Large Language Models - GeeksforGeeks": https://www.geeksforgeeks.org/future-of-large-language-models/
+50. ^ "Large Language Models 2024 Year in Review and 2025 Trends": https://www.psychologytoday.com/us/blog/the-future-brain/202501/large-language-models-2024-year-in-review-and-2025-trends
